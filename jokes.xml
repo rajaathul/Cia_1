@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="file.xnsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?><?xml-stylesheet href="file.xsl" type="text/xsl"?>
+<jokes>
+  <joke category="Programming">
+    <setup>Why don't scientists trust atoms?</setup>
+    <punchline>Because they make up everything!</punchline>
+  </joke>
+  <joke category="Animal Crossing">
+    <setup>Parallel lines have so much in common.</setup>
+    <punchline>It's a shame they'll never meet.</punchline>
+  </joke>
+  <joke category="Religion">
+    <setup>I used to play piano by ear, but now I use my hands.</setup>
+  </joke>
+  <joke category="Political">
+    <setup>Did you hear about the mathematician who's afraid of negative numbers?</setup>
+    <punchline>He'll stop at nothing to avoid them.</punchline>
+  </joke>
+  <joke category="Food">
+    <setup>What do you call a fish with no eyes?</setup>
+    <punchline>Fsh.</punchline>
+  </joke>
+  <joke category="Geography">
+    <setup>I'm on a seafood diet. I see food, and I eat it.</setup>
+  </joke>
+  <joke category="Celebrity">
+    <setup>Why did the scarecrow win an award?</setup>
+    <punchline>Because he was outstanding in his field!</punchline>
+  </joke>
+  <joke category="Spooky">
+    <setup>What's orange and sounds like a parrot?</setup>
+    <punchline>A carrot.</punchline>
+  </joke>
+  <joke category="Miscellaneous">
+    <setup>How do you organize a space party?</setup>
+    <punchline>You "planet"!</punchline>
+  </joke>
+  <joke category="Math Movies">
+    <setup>How does a penguin build its house?</setup>
+    <punchline>Igloos it together!</punchline>
+  </joke>
+  <joke category="Miscellaneous">
+    <setup>Why did the bicycle fall over?</setup>
+    <punchline>Because it was two-tired.</punchline>
+  </joke>
+  <joke category="Sports Movies">
+    <setup>I used to be addicted to the hokey pokey, but I turned myself around.</setup>
+  </joke>
+</jokes>

@@ -1,0 +1,29 @@
+[
+    {
+      "joke": "Why don't scientists trust atoms? Because they make up everything!",
+      "category": "Programming"
+    
+    },
+    {
+        "joke":"Parallel lines have so much in common. It's a shame they'll never meet.",
+        "category":"Animal Crossing"
+    },
+    {
+        "joke":"I used to play piano by ear, but now I use my hands.",
+        "category":"Religion"
+    },
+    {
+        "joke":"What do you call a fish with no eyes? Fsh.",
+        "category":"Food"
+    },
+    {
+        "joke":"I'm on a seafood diet. I see food, and I eat it.",
+        "category":"Food"
+    },
+    {
+        "joke":"What's orange and sounds like a parrot? A carrot",
+        "category":"Spooky"
+    }
+
+  ]
+  
